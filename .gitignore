@@ -1,0 +1,10 @@
+myvenv/
+DataSet/
+models/
+pipeline_v2/
+test_img/
+kaggle_upload_folder/
+artifacts/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
